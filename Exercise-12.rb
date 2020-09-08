@@ -1,7 +1,7 @@
 print "Give me a number: "
 number = gets.chomp.to_f
 
-# puts number
+# # puts number
 
 bigger = number * 100
 puts "The answer to a bigger number is #{bigger}."
@@ -12,3 +12,4 @@ number = another.to_f
 
 smaller = number / 100
 puts "A smaller number is #{smaller}."
+
