@@ -11,3 +11,4 @@ print "How much do you weigh in lbs? "
 weight = gets.chomp
 
 puts "I am #{age} years old, I am #{coolness} cool, I am #{tall} ft tall, and I weigh #{weight} lbs."
+
